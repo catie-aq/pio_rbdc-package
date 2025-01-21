@@ -1,0 +1,28 @@
+{
+  "name": "RBDC",
+  "version": "0.0.1",
+  "description": "Robot Base Drive Control library (RBDC)",
+  "keywords": "RBDC, robot, mobile-base, base, pid, odometry, differential, holonome, holonomic, drive",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/catie-aq/pio_rbdc-package.git"
+  },
+  "authors":
+  [
+    {
+      "name": "CATIE",
+      "email": "contact@catie.fr",
+      "url": "https://www.catie.fr/"
+    },
+    {
+      "name": "CopperBot",
+      "url": "https://github.com/Copper-Bot",
+      "maintainer": true
+    }
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/catie-aq/6tron_RBDC",
+  "frameworks": "*",
+  "platforms": "*"
+}
