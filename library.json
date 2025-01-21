@@ -28,12 +28,12 @@
   "headers": ["RBDC.h", "math_utils.h", "mobile_base.h", "odometry.h", "pid.h"],
   "build": {
     "includeDir": ".",
-	"flags": [
+    "flags": [
       "-I RBDC/mobile-base/math-utils",
       "-I RBDC/mobile-base",
       "-I RBDC/odometry",
       "-I RBDC/pid",
-	  "-I RBDC"
+      "-I RBDC"
     ]
   }
 }
