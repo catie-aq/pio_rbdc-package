@@ -1,6 +1,6 @@
 {
   "name": "RBDC",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Robot Base Drive Control library (RBDC)",
   "keywords": "RBDC, robot, mobile-base, base, pid, odometry, differential, holonome, holonomic, drive",
   "repository":

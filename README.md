@@ -10,9 +10,5 @@ To add the library to your PIO project, you will need to add this line in your p
 [env]
 lib_deps =
 ; This will include the RBDC and all his dependencies :
-  https://github.com/catie-aq/pio_rbdc-package.git
-
-
+  https://github.com/catie-aq/pio_rbdc-package.git#v0.1.0
 ``````
-
-Be aware that, until this repository regularly publishes releases, this line is considered "[bad practice](https://docs.platformio.org/en/latest/librarymanager/dependencies.html#declaring-practices)" because no release version is specified.
