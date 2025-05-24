@@ -10,5 +10,5 @@ To add the library to your PIO project, you will need to add this line in your p
 [env]
 lib_deps =
 ; This will include the RBDC and all his dependencies :
-  https://github.com/catie-aq/pio_rbdc-package.git#v0.2.1
+  https://github.com/catie-aq/pio_rbdc-package.git#v0.3.0
 ``````
